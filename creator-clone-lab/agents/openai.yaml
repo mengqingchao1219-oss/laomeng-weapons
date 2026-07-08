@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creator Clone Lab"
+  short_description: "Capture benchmark videos or image-text posts, distill creator patterns, and build AI creator clones."
+  default_prompt: "Capture this creator or benchmark link across Douyin, Xiaohongshu, Kuaishou, Bilibili, or local files. Check local media tools first, collect video/image/text/OCR/ASR/comment evidence, then distill topic selection, thinking, expression, reusable formulas, and an AI creator clone."
