@@ -1,9 +1,9 @@
-﻿---
+---
 name: creator-clone-lab
-description: End-to-end creator benchmark distillation and AI creator clone workflow. Use when the user asks to 蒸馏博主, analyze a creator or benchmark video/image post, 抓取/下载对标视频或图文, analyze 小红书/抖音/快手/B站 benchmark content, extract how a creator chooses topics/thinks/expresses, build a creator AI 分身, import benchmark references, or run the content loop from benchmark research to scripts, scoring, prediction, publishing records, retrospectives, and rubric calibration.
+description: End-to-end creator benchmark distillation and AI creator clone workflow. Use when the user asks to 蒸馏博主(对标账号/内容风格/创作方法)、analyze a creator or benchmark video/image post, 抓取/下载对标视频或图文, analyze 小红书/抖音/快手/B站 benchmark content, extract how a creator chooses topics/thinks/expresses, build a creator AI 分身, import benchmark references, or run the content loop from benchmark research to scripts, scoring, prediction, publishing records, retrospectives, and rubric calibration.
 version: "2.0"
 author: "老孟（墨染文化）"
-tags: []
+tags: ["博主分析", "对标研究", "内容克隆", "创作者蒸馏", "博主实验室"]
 user-invocable: true
 ---
 
